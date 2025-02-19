@@ -1,58 +1,40 @@
 ![](https://komarev.com/ghpvc/?username=Kaiw0&color=006bed)
 
-## ▷▷ About me 
+## 👨🏻‍💻 Um Pouco Sobre Mim 
 
-- 👀 A curious mind passionate about technology.
-- 🎓 Studying Systems Analysis and Development at FIAP.
-- 💼 Working as a Junior Backend Developer at Sogamax Distribuidora.
-- 🌱 Exploring Next.js, Spring Boot, and Kotlin to expand my knowledge.
+- 👀 Uma mente curiosa e apaixonada por tecnologia.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
+- 💼 Buscando novos desafios.
+- 🌱 Explorando Next.js, Spring Boot e Kotlin para expandir meu conhecimento.
   
 
-## ▷▷ My Skills
+## 🤖 Linguagens e Tecnologias
 
-**Applications and Data**
+  <div style="display: inline_block"><br>
+    <img align="center" alt="KaioW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="KaioW-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="KaioW-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="KaioW-Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+    <img align="center" alt="KaioW-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+    <img align="center" alt="KaioW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="KaioW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="KaioW-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="KaioW-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" alt="KaioW-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  </div>
+      <img align="center" alt="KaioW-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </div>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FFE15E)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![PrismaORM](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=007396)
-![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=Fastify)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-
-**Utilities**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-
-**Development Tools**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij-idea)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-
-<br/>
+  ##
 
 <a href="https://github.com/kaiw0" title="
 Kaio's profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiw0&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiw0&show_icons=true&theme=tokyonight" />
 </a>
 
-## How to reach me
+<div> 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-ferreira-3a58b6246/)](https://www.linkedin.com/in/kaio-ferreira-3a58b6246/)
-[![Gmail Badge](https://img.shields.io/badge/-rkaioferreira02@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkaioferreira02@gmail.com)](mailto:rkaioferreira02@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/kaiw0?label=follow&style=social)](https://github.com/Kaiw0)
+  <a href = "mailto:rkaioferreira02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaio-ferreira-3a58b6246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
