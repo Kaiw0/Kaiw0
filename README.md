@@ -59,17 +59,11 @@
   - Learning and experimenting with .NET APIs
   - Repo: https://github.com/Kaiw0/api-.net
 
-- Digital Process (contribution)
-  - Participation in an external project
-  - Repo: https://github.com/govapps/digitalProcess
-
 ---
 
 ## 🧩 What I’m Learning
 
-- Advanced Spring Boot patterns
-- Next.js App Router + server actions
-- Kotlin best practices and coroutines
+- Nuxt.js + server actions
 
 ---
 
