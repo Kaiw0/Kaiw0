@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Jx5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpY2b/giphy.gif" width="100"/>
   <h1>
-    Hey there, I'm Kaio Rosalino
+    Hey there, I'm Kaio Ferreira
   </h1>
   <h3>
     A passionate Software Developer from Brazil 🇧🇷
@@ -69,6 +69,7 @@ Here's a snapshot of the technologies I work with.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaiw0&show_icons=true&theme=tokyonight&rank_icon=github" alt="Kaio's GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiw0&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 <p align="center">
